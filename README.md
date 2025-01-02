@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Divanshu Grover
 
-<!--
-**divanshu-go/divanshu-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile! ✨  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on open-source projects and personal development.  
+- 🌱 I’m learning new technologies and tools to enhance my skills.  
+- 👯 I’m looking to collaborate on impactful projects.  
+- 💬 Ask me about coding or anything tech-related!  
+- 📫 How to reach me: divanshugrover2009@gmail.com
+- ⚡ Fun fact: I love exploring new tools and building creative solutions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let’s connect and create something amazing! 🚀  
+
